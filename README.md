@@ -10,7 +10,7 @@ Components | Recommended
 **WiFi** | BCM943602CS
 **Graphics Card** | MSI Radeon RX 580 Armor 8GB OC
 RAM | 16GB G.Skill Aegis DDR4-3000Mhz
-macOS | 10.15.7 (19H15)
+macOS | 11.0.1 (20B28)
 OpenCore | v0.6.3 (stable)
 
 
