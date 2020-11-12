@@ -14,7 +14,7 @@ macOS | 11.0.1 (20B28)
 OpenCore | v0.6.3 (stable)
 
 
-## Kexts
+## Updates
 Items | Last Version | Comments
 ------------ | ------------- | -------------
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases/latest) | 0.6.3 |
