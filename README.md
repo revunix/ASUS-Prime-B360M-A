@@ -12,7 +12,7 @@ __WiFi + BT:__ BCM943602CS
 
 
 
-__Betriebssystem:__ macOS 11.0.1
+__macOS:__ macOS 11.0.1
 
 __Bootloader:__ OpenCore v0.6.3 (stable)
 
