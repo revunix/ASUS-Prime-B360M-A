@@ -15,3 +15,6 @@ __WiFi + BT:__ BCM943602CS
 __Betriebssystem:__ macOS 11.0.1
 
 __Bootloader:__ OpenCore v0.6.3 (stable)
+
+
+![alt text](https://raw.githubusercontent.com/revunix/ASUS-Prime-B360M-A-OpenCore-Hackintosh/master/images/aboutmac.png)
