@@ -1,5 +1,3 @@
-# ASUS Prime B360M-A
-
 ![alt text](https://raw.githubusercontent.com/revunix/ASUS-Prime-B360M-A-OpenCore-Hackintosh/master/images/aboutmac.png)
 
 ## Hardware
