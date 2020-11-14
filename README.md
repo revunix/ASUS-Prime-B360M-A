@@ -5,7 +5,7 @@
 ## Hardware
 Components | Recommended
 ------------ | -------------
-**Motherboard** | Asus Prime B360M-A - BIOS: 2811
+**Motherboard** | ASUS Prime B360M-A - BIOS: 2811
 **CPU** | Intel i5 8600 - 3,1 GHz
 **WiFi** | BCM943602CS
 **Graphics Card** | MSI Radeon RX 580 Armor 8GB OC
